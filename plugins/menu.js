@@ -56,7 +56,7 @@ Hai, %name! %ucapan
 *Fitur:* %totalfeatures command
 
 %readmore
-*Support me:* _https://saweria.com/MaxxyBotz_
+*Support me:* _https://saweria.com/Rimuru233_
 *Note:*
 _Jika Respon Tidak Muncul Kemungkinan Terjadi Error_
 `.trimStart(),
