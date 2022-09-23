@@ -49,6 +49,9 @@ https://github.com/Fokusdotid
 
 *AmmarBN:*
 https://github.com/AmmarrBN
+
+*ALFIN MD*
+https://github.com/Raya2399
 `
 conn.sendButton(m.chat, tqto, wm, await(await fetch(hwaifu.getRandom())).buffer(), [['🎀 Menu', '/menu']], m, { fileLength: fsizedoc, seconds: fsizedoc, contextInfo: {
           externalAdReply :{
